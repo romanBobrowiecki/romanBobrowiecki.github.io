@@ -2838,7 +2838,8 @@ p {
   width: 300px;
   margin: 0 auto;
   margin-top: 40px;
-  border-radius: 5px 5px 0px 0px; }
+  border-radius: 5px 5px 0px 0px;
+  cursor: pointer; }
 
 .onas-logo__logo-image {
   width: 60px; }
@@ -3370,7 +3371,7 @@ p {
     width: 46%;
     height: 260px; }
   .grid-item-title {
-    font-size: 1.8rem;
+    font-size: 1.4rem;
     font-weight: lighter;
     opacity: 1;
     background-color: rgba(255, 255, 255, 0.8); } }
@@ -3386,7 +3387,7 @@ p {
     width: 46%;
     height: 200px; }
   .grid-item-title {
-    font-size: 1.8rem;
+    font-size: 1.4rem;
     font-weight: lighter;
     opacity: 1;
     background-color: rgba(255, 255, 255, 0.8); } }
